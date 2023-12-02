@@ -76,11 +76,13 @@
         font-family: 'Poppins';
         color: #ffff;
         transition: 0.2s;
+        cursor: pointer;
     }
 
     .btn-add:hover {
         transition: 0.2s;
         scale: 110%;
+        cursor: pointer;
     }
 
     .btn-add img {
@@ -163,6 +165,7 @@
         border-radius: 3px;
         font-family: 'poppins';
         transition: 0.3s;
+        cursor: pointer;
     }
 
     .btn-delete:hover {
@@ -178,6 +181,7 @@
         border-radius: 3px;
         font-family: 'poppins';
         transition: 0.3s;
+        cursor: pointer;
     }
 
     .btn-check:hover {
